@@ -13,6 +13,6 @@ Desenvolver um sistema simples de cadastro de eventos para a prática de Lógica
 
 
 <b>Nota da autora:</b>
-<br><i>Apesar do meu algoritmo e do meu fluxograma terem mais passos do que o próprio código, optei por deixar assim mesmo. Tendo em vista que o princípio dessa atividade 
-era só colocar o conteúdo de Lógica de Programação em prática, não desenvolver um sistema realmente, como visualizei no início. Porém, pretendo voltar a tentar colocar 
-em prática o sistema conforme for aprendendo os novos conteúdos do curso e assim, poder comparar o meu desempenho.</i>
+<br><i>Apesar do meu algoritmo e do meu fluxograma terem mais passos do que o próprio código, optei por deixar assim mesmo. Tendo em vista que o princípio dessa 
+atividade era só colocar o conteúdo de Lógica de Programação em prática, não desenvolver um sistema realmente, como visualizei no início. Porém, pretendo voltar e 
+tentar colocar em prática minha ideia inicial do sistema conforme for aprendendo os novos conteúdos do curso e assim, poder comparar o meu desempenho.</i>
